@@ -11,8 +11,8 @@
 
 <h3 align="left">Conectar con a mí:</h3>
 <p align="izquierda">
-<a href="https://linkedin.com/en/https://www.linkedin.com/en/tomas-cerdeyra-007b01234/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /en/tomas-cerdeyra-007b01234/" height="30" width="40" /></a>
-<a href="https://instagram.com/tomascerdeyra" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomascerdeyra" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /en/tomas-cerdeyra-007b01234/" height="30" width="40" /></a>
+<a href="tomascerdeyra" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomascerdeyra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>

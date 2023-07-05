@@ -4,7 +4,9 @@
 
 - 🔭 Actualmente estoy trabajando en: **https://github.com/TomasCerdeyra/ShadowChat**
 
-- 💬Preguntame sobre: **Node.js, Express, MongoDb, React**
+- 📚 Actualmente estoy estudiando: Segundo año de la carreara Analista en sistemas en la UNSA. Ademas, Desarrollo Web, autodidacta y por cursos de internet.
+
+- 💬Preguntame sobre: **Express, MongoDb, React, JS**
 
 - 📫 Como llegar a mi: **tomascerdeyra02@gmail.com**
 

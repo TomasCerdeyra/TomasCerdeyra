@@ -10,6 +10,8 @@
 
 - 📫 Como llegar a mi: **tomascerdeyra02@gmail.com**
 
+![TomasCerdeyra GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasCerdeyra&show_icons=true&theme=tokyonight)
+
 <h2 align="left">Contactame por:</h2>
 <p align="izquierda">
 <a href="https://linkedin.com/in/tomas-cerdeyra-007b01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomascerdeyra" height="30" width="40" /></a>

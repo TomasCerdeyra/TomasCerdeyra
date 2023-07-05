@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src ="https://github-profile-trophy.vercel.app/?username=tomascerdeyra" alt="tomascerdeyra" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en: [shadowChat](https:// github.com/TomasCerdeyra/ShadowChat)
+- 🔭 Actualmente estoy trabajando en: shadowChat(https:// github.com/TomasCerdeyra/ShadowChat)
 
 - 💬Preguntame sobre: **Node.js, Express, MongoDb, React**
 

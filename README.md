@@ -6,7 +6,7 @@
 
 - 📚 Actualmente estoy estudiando: Segundo año de la carreara Analista en sistemas en la UNSA. Ademas, Desarrollo Web, autodidacta y por cursos.
 
-- 💬 Preguntame sobre: **Express, MongoDb, React, JS**
+- 💬 Preguntame sobre: **Express, MongoDb, React/Angular, JS**
 
 - 📫 Como llegar a mi: **tomascerdeyra02@gmail.com**
 

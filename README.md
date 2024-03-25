@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src ="https://github-profile-trophy.vercel.app/?username=tomascerdeyra" alt="tomascerdeyra" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en: [https://github.com/No-Country/c-14-19-t-typescript-react](https://github.com/NexusDigitalWeb)
+- 🔭 Actualmente estoy trabajando en: [NexusDigitalar](https://github.com/NexusDigitalWeb)
 
 - 📚 Actualmente estoy estudiando: Segundo año de la carreara Analista en sistemas en la UNSA. Ademas, Desarrollo Web, autodidacta y por cursos.
 

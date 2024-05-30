@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando en: [NexusDigitalar](https://github.com/NexusDigitalWeb)
 
-- 📚 Actualmente estoy estudiando: Tercer año de la carreara Analista en Informatica en la UNSA. Ademas, Desarrollo Web, autodidacta y por cursos.
+- 📚 Actualmente estoy estudiando: Tercer año de la carreara Analista en Informatica en la facultad UNSADA. Ademas, Desarrollo Web, autodidacta y por cursos.
 
 - 💬 Preguntame sobre: **Express, MongoDb, React/Angular, JS**
 

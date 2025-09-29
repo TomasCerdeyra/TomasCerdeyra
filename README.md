@@ -2,9 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trofeo"><img src ="https://github-profile-trophy.vercel.app/?username=tomascerdeyra" alt="tomascerdeyra" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en: [NexusDigitalar](https://github.com/NexusDigitalWeb)
-
-- 📚 Actualmente estoy estudiando: Tercer año de la carreara Analista en Informatica en la facultad UNSADA. Ademas, Desarrollo Web, autodidacta y por cursos.
+- 📚 Actualmente estoy estudiando: Cuarto año de la carreara Analista en Informatica en la facultad UNSADA. Ademas, Desarrollo Web, autodidacta y por cursos.
 
 - 💬 Preguntame sobre: **Express, MongoDb, React/Angular, JS**
 

@@ -51,7 +51,6 @@ Desarrollador full stack enfocado en **TypeScript, React/Next.js, Node.js y Post
 **IA aplicada al desarrollo**
 <br>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Engram-555555?style=flat-square" />
 <img src="https://img.shields.io/badge/CodeGraph-555555?style=flat-square" />

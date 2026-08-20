@@ -2,9 +2,9 @@
 
 # Hola, soy Tomás 👋
 
-### Full Stack Developer · TypeScript · React/Next.js · Node.js · SQL | MD
+### Full Stack Developer · TypeScript · React/Next.js · Node.js · PostgreSQL | MDB
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Integrando+CRMs+con+WhatsApp+e+IA;Auditando+c%C3%B3digo+generado+por+IA;Estudiante+de+Lic.+en+Inform%C3%A1tica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Auditando+c%C3%B3digo+generado+por+IA;Estudiante+de+Lic.+en+Inform%C3%A1tica" alt="Typing SVG" />
 
 </div>
 
